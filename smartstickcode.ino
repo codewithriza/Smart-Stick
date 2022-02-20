@@ -1,4 +1,5 @@
-//Security Alarm with Ultrasonic Sensor//
+//Smart Stick//
+//Made by Code With Riza//
 
 #define trigPin 6  
 #define echoPin 5
